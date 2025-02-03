@@ -1,9 +1,5 @@
 ## hi, im samuel
 
-**samuelc55/samuelc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 estoy trabajando en aprender tecnologia.
 - 🌱 estoy aprendiendo diversas cosas en la universidad...
 - 👯 busco colaborar en las asignaturas visualizadas ...
